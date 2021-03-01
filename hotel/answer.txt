@@ -1,0 +1,10 @@
+1.FDA,GSA
+2.f&b service
+3.linen attendant
+4.housekeeping
+
+random choose:
+1.roomboy,waiters,bellboy,manager,supervisor,bartender
+2.security,accounting,enginering
+3.roomboy,waiters,bellboy,manager,supervisor,bartender
+4.marketing department,kitchen,spa,banquet

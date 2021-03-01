@@ -1,0 +1,10 @@
+1.interpreter
+2.fortran
+3.assembly
+4.abstarction,polymorphism,inheritance
+
+random choose:
+1.bit,byte,mechine
+2.c,c++,cobol,python,java,perl,swift
+3.c,c++,cobol,python,java,fortran
+4.easy to use,hard,simple syntax

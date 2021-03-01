@@ -1,0 +1,10 @@
+1.italy
+2.dark age
+3.mecca
+4.roman
+
+random choose:
+1.norway,england,italy,turkey
+2.renaissance,golden age,khlipath,helenistic
+3.vatican,roman,alexandria,madina
+4.yerusalem,asgard,pluto

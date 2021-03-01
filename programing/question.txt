@@ -1,0 +1,4 @@
+1.there is compiler and?
+2.first compiler is use in language?
+3.what is lowes level language call?
+4.why oop is better than procedural?
